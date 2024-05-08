@@ -31,7 +31,10 @@ body {
     color: aquamarine;
 }
 
-footer {
+/* footer */
+
+.footer--copyright {
+    font-size: 21px;
     color: gray;
     text-align: right;
 }
